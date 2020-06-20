@@ -1,4 +1,4 @@
-[
+{"user":[
 {	"userId":"My Category Kittens","id":"Black","title":"Solid","body":"10"},
 {	"userId":"My Category Kittens","id":"White","title":"Striped","body":"20"},
 {	"userId":"My Category Kittens","id":"Gray","title":"Spotted","body":"30"},
@@ -11,4 +11,4 @@
 {	"userId":"My Category Birdies","id":"Purple","title":"Plaid","body":"100"},
 {	"userId":"My Category Birdies","id":"Transparent","title":"Argiled","body":"110"},
 {	"userId":"My Category Birdies","id":"Utraviolet","title":"Bald","body":"120"}
-]
+]}
